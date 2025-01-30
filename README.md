@@ -6,7 +6,7 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 Confira tudo no Youtube, é grátis! Segue o link:
 
-bla bla bla bla
+Se liga também agora no nosso instagram!!!
 
 Participantes:
 -> JP
